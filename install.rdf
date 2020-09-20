@@ -12,7 +12,7 @@
         RDF:about="urn:mozilla:install-manifest"
         em:id="zoteroscholarcitations@beloglazov.info"
         em:name="Zotero Scholar Citations"
-        em:version="2.0.4"
+        em:version="2.0.5"
         em:type="2"
         em:creator="Anton Beloglazov"
         em:description="Zotero plugin for auto-fetching numbers of citations from Google Scholar"
@@ -31,6 +31,13 @@
                 <em:locale>ru-RU</em:locale>
                 <em:name>Zotero Scholar Citations</em:name>
                 <em:description>Плагин для Zotero для автоматической выборки числа цитирований из Google Scholar.</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>zh-CN</em:locale>
+                <em:name>Zotero Scholar Citations</em:name>
+                <em:description>从 Google 学术获取引用次数</em:description>
             </Description>
         </em:localized>
         <em:localized>
