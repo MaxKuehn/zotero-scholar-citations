@@ -1,3 +1,10 @@
+# Deprecation 
+**This fork is deprecated!**
+
+This plugin/fork has been superseded by plugins that use actual APIs to fetch citation numbers, e.g. [zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts).
+
+Also, see the [Official Zotero Plugins Page](https://www.zotero.org/support/plugins) for more Zotero plugins.
+
 # Zotero Scholar Citations (ZSC)
 This is an add-on for Zotero, a research source management tool. The add-on automatically fetches numbers of citations of your Zotero items from Google Scholar and makes it possible to sort your items by the citations. Moreover, it allows batch updating the citations, as they may change over time.
 
