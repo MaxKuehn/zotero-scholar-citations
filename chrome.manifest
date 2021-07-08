@@ -4,5 +4,6 @@ locale  zoteroscholarcitations  en-GB   chrome/locale/en-GB/
 locale  zoteroscholarcitations  en-US   chrome/locale/en-US/
 locale  zoteroscholarcitations  ru-RU   chrome/locale/ru-RU/
 locale  zoteroscholarcitations  it-IT   chrome/locale/it-IT/
+locale  zoteroscholarcitations  zh-CN   chrome/locale/zh-CN/
 
 overlay chrome://zotero/content/zoteroPane.xul chrome://zoteroscholarcitations/content/overlay.xul
